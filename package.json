@@ -1,32 +1,4 @@
 {
-  "_args": [
-    [
-      "react-native-calendars@git+https://github.com/zaporozhetsAnton/react-native-calendars.git",
-      "/Users/atrubetskoi/Projects/FarmGate_app"
-    ]
-  ],
-  "_from": "react-native-calendars@https://github.com/zaporozhetsAnton/react-native-calendars",
-  "_id": "react-native-calendars@git+ssh://git@github.com/zaporozhetsAnton/react-native-calendars.git#fc14409a026284063ec40a3fb49a0c40865cdcb9",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/react-native-calendars",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "react-native-calendars@https://github.com/zaporozhetsAnton/react-native-calendars",
-    "name": "react-native-calendars",
-    "escapedName": "react-native-calendars",
-    "rawSpec": "https://github.com/zaporozhetsAnton/react-native-calendars",
-    "saveSpec": "git+https://github.com/zaporozhetsAnton/react-native-calendars.git",
-    "fetchSpec": "https://github.com/zaporozhetsAnton/react-native-calendars.git",
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "git+ssh://git@github.com/zaporozhetsAnton/react-native-calendars.git#fc14409a026284063ec40a3fb49a0c40865cdcb9",
-  "_spec": "https://github.com/zaporozhetsAnton/react-native-calendars",
-  "_where": "/Users/atrubetskoi/Projects/FarmGate_app",
   "author": {
     "name": "Wix.com"
   },
